@@ -1,5 +1,5 @@
-### Welcome to my GitHub profile! My name is Caio César Silva and i am an Front end Engineer!
+### Welcome to my GitHub profile! My name is Caio César Silva and i am an Full Stack Engineer!
 
-- I’m currently working at dti digital as an Software Engineer.
-- I’m currently studying advanced Front End techniques.
+- I am currently working at dti digital as an Full Stack Engineer.
+- I am currently studying to obtain a bachelor's degree at UFMG (Federal University of Minas Gerais) in the course of Information Systems
 - Social Media: [LinkedIn](https://www.linkedin.com/in/caio-cesar-silva/) 
